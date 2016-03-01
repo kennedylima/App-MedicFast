@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texto">
+
+          Medicamento   \n\n
+        - Para visualizar os medicamentos disponíveis pela rede de saúde brasileira, utilize a opção medicamento.\n
+        - Selecione o medicamento que deseja.\n
+        - Após selecionar o medicamento, o aplicativo irá lhe mostrar os locais onde contém aquele medicamento disponível.\n\n
+
+          Especialidade \n\n
+        - Para visualizar os médicos disponíveis para atendimento, escolha a opção Especialidade Médica.\n
+        - Selecione a opção que melhor atende-lo.\n
+        - Em seguida selecione o ponto de atendimento mais próximo da sua localização de acordo com o endereço.\n
+        - Ao abrir a tela de senha, escolha uma especialidade e um tipo de ocorrência, caso necessário descreva os sintomas.\n
+        - Selecione gerar senha.\n
+        - Salve a senha e dirija-se até o local para realizar seu atendimento.\n\n
+
+          Ponto de Atendimento \n\n
+        - Está opção lhe mostrará os pontos de atendimento da cidade.\n
+        - Ao selecionar o local você será direcionado a tela de gerar senha.\n
+        - Escolha uma especialidade e um tipo de ocorrência, caso necessário descreva os sintomas e selecione gerar senha.\n
+        - Salve a senha e dirija-se até o local para realizar seu atendimento.\n\n
+
+
+    </string>
+
+
+
+</resources>

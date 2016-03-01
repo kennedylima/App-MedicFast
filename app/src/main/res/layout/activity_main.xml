@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="#4682b4">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Medicamento"
+        android:layout_marginTop="100dp"
+        android:drawableLeft="@drawable/remedio"
+        android:id="@+id/btnMedicamento"
+        style="@style/Botoes"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Especialdiade Médica"
+        android:drawableLeft="@drawable/medico"
+        android:id="@+id/btnMedico"
+        style="@style/Botoes"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pontos de Atendimento"
+        android:drawableLeft="@drawable/hospital"
+        android:id="@+id/btnPonto"
+        style="@style/Botoes"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ajuda"
+        android:drawableLeft="@drawable/ajuda"
+        android:id="@+id/btnSenha"
+        style="@style/Botoes"/>
+
+</LinearLayout>

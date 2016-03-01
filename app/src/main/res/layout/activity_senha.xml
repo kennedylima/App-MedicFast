@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#faffb1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/Label"
+        android:text="Selecione uma especialidade :"/>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Sppiner"
+        android:id="@+id/spinnerEspecialidade"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/Label"
+        android:text="Selecione uma ocorrência :"/>
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Sppiner"
+        android:id="@+id/spinnerOcorrencia"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/Label"
+        android:text="Descreva os Sintomas :"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        style="@style/CampoTexto"
+        android:background="@drawable/edit_text"
+        android:gravity="top"
+        android:id="@+id/sintomas"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gerar Senha"
+        android:id="@+id/gerarSenha"
+        style="@style/Botoes"
+        android:layout_marginTop="100px"/>
+
+</LinearLayout>

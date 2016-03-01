@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppMedicFast</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_medicamento">MedicamentoActivity</string>
+    <string name="title_activity_medico">MedicoActivity</string>
+    <string name="title_activity_ponto_atendimento">PontoAtendimentoActivity</string>
+    <string name="title_activity_lista">ListaActivity</string>
+    <string name="title_activity_senha">SenhaActivity</string>
+    <string name="title_activity_exibe_senha">ExibeSenhaActivity</string>
+    <string name="title_activity_lista_especialdade">ListaEspecialdadeActivity</string>
+    <string name="title_activity_lista_medicamento">ListaMedicamentoActivity</string>
+    <string name="title_activity_ajuda">AjudaActivity</string>
+</resources>
